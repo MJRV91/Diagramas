@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T20:50:04.238Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="xsv9P4ZxarjKa3T8OmtM" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T20:51:50.110Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="_tR6RhbNs_3lkCElG7hD" version="21.6.2" type="github">
   <diagram id="2f404044-711c-603c-8f00-f6bb4c023d3c" name="Page-1">
     <mxGraphModel dx="1434" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
         <mxCell id="C3SjWa8mjKMF5vA95o0v-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="C3SjWa8mjKMF5vA95o0v-85" source="C3SjWa8mjKMF5vA95o0v-73" target="C3SjWa8mjKMF5vA95o0v-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hMxj7U189vFfm_DoekN3-1" value="&lt;h2&gt;REDES SOCIALES&lt;/h2&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/automation_tools.svg;" vertex="1" parent="C3SjWa8mjKMF5vA95o0v-85">
+        <mxCell id="hMxj7U189vFfm_DoekN3-1" value="&lt;h2&gt;REDES SOCIALES&lt;/h2&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/automation_tools.svg;" vertex="1" parent="C3SjWa8mjKMF5vA95o0v-85">
           <mxGeometry x="250" y="620" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hMxj7U189vFfm_DoekN3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="C3SjWa8mjKMF5vA95o0v-85" source="hMxj7U189vFfm_DoekN3-3" target="hMxj7U189vFfm_DoekN3-6">
