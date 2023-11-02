@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T21:49:53.072Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="21.6.2" etag="JGI81KibSpbwEQzDTxSc" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T22:04:54.154Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="nDpKWQIRAIXFp9KLdhwH" version="21.6.2" type="github">
   <diagram name="Página-1" id="JL0s9YFxojF8kScrT-FA">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="byS9DmiykSNvir3lJ_Dd-1" value="&lt;h3&gt;NUEVOS NEGOCIOS&lt;/h3&gt;" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#4376BB;strokeWidth=1;dashed=0;container=1;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="40" width="780" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="byS9DmiykSNvir3lJ_Dd-14" value="&lt;h2&gt;USUARIO&lt;/h2&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/users/user.svg;" vertex="1" parent="byS9DmiykSNvir3lJ_Dd-1">
+          <mxGeometry x="45" y="240" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="byS9DmiykSNvir3lJ_Dd-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="byS9DmiykSNvir3lJ_Dd-1" source="byS9DmiykSNvir3lJ_Dd-16" target="byS9DmiykSNvir3lJ_Dd-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="byS9DmiykSNvir3lJ_Dd-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="byS9DmiykSNvir3lJ_Dd-1" source="byS9DmiykSNvir3lJ_Dd-16" target="byS9DmiykSNvir3lJ_Dd-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="byS9DmiykSNvir3lJ_Dd-16" value="&lt;h2&gt;PORTAL MEDIPIEL&lt;/h2&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/automation_tools.svg;" vertex="1" parent="byS9DmiykSNvir3lJ_Dd-1">
+          <mxGeometry x="260" y="240" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="byS9DmiykSNvir3lJ_Dd-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="byS9DmiykSNvir3lJ_Dd-1" source="byS9DmiykSNvir3lJ_Dd-14" target="byS9DmiykSNvir3lJ_Dd-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="byS9DmiykSNvir3lJ_Dd-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="byS9DmiykSNvir3lJ_Dd-1" source="byS9DmiykSNvir3lJ_Dd-24" target="byS9DmiykSNvir3lJ_Dd-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="byS9DmiykSNvir3lJ_Dd-24" value="INTEGRACION" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/ibm/data/device_registry.svg;strokeColor=#FF0000;fillColor=#FFFF66;gradientColor=none;fontColor=#4277BB;labelBackgroundColor=#ffffff;spacingTop=3;" vertex="1" parent="byS9DmiykSNvir3lJ_Dd-1">
+          <mxGeometry x="450" y="240" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="byS9DmiykSNvir3lJ_Dd-25" value="BD SIESA" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/ibm/data/data_services.svg;strokeColor=#FF0000;fillColor=#FFFF66;gradientColor=none;fontColor=#4277BB;labelBackgroundColor=#ffffff;spacingTop=3;" vertex="1" parent="byS9DmiykSNvir3lJ_Dd-1">
+          <mxGeometry x="650" y="240" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="byS9DmiykSNvir3lJ_Dd-30" value="&lt;h1&gt;&lt;/h1&gt;&lt;h5&gt;&lt;/h5&gt;&lt;h6&gt;&lt;/h6&gt;&lt;h3&gt;&lt;ul&gt;&lt;li&gt;Consulta&amp;nbsp; de precio (Tiendas).&lt;/li&gt;&lt;li&gt;Agenda y Ficha (Centro de bienestar)&lt;/li&gt;&lt;li&gt;Informes proveedores&lt;/li&gt;&lt;/ul&gt;&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" vertex="1" parent="byS9DmiykSNvir3lJ_Dd-1">
+          <mxGeometry x="120" y="50" width="190" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
